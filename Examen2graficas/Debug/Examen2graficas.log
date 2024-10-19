@@ -1,0 +1,6 @@
+﻿  Examen2graficas.cpp
+A:\Todo\Downloads\23I\Graficas\Proyecto\Examen2graficas\Examen2graficas\Examen2graficas.cpp(118,45): warning C4554: "^": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+A:\Todo\Downloads\23I\Graficas\Proyecto\Examen2graficas\Examen2graficas\Examen2graficas.cpp(122,47): warning C4554: "^": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+A:\Todo\Downloads\23I\Graficas\Proyecto\Examen2graficas\Examen2graficas\Examen2graficas.cpp(130,45): warning C4554: "^": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+A:\Todo\Downloads\23I\Graficas\Proyecto\Examen2graficas\Examen2graficas\Examen2graficas.cpp(755,16): warning C4018: '<': no coinciden signed/unsigned
+  Examen2graficas.vcxproj -> A:\Todo\Downloads\23I\Graficas\Proyecto\Examen2graficas\Debug\Examen2graficas.exe
